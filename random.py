@@ -4,3 +4,5 @@ print("what is going on")
 print("We are the Lovesick Girl~~")
 
 print("We will win")
+
+print("^^")
